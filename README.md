@@ -9,8 +9,8 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
 
 * 🌍  I'm based in 🏙️
 * ✉️  You can contact me at [taophyckassim@gmail.com](mailto:taophyckassim@gmail.com)
-* 🚀  I'm currently working on [frontend mentor projects](http:////www.frontendmentor.io/profile/Taophycc)
-* 🧠  I'm learning Javascript/Typescript
+* 🚀  I'm currently learning Data Structures and Algorithm  and working on [frontend mentor projects](http:////www.frontendmentor.io/profile/Taophycc)
+* 🧠  I'm exploring Javascript/Typescript
 * 🤝  I'm open to collaborating on projects, internships, and job opportunities to grow professionally and contribute to innovative teams.
 * ⚡  I'm an applied physics major 😎
 
@@ -39,6 +39,12 @@ src="https://img.shields.io/twitter/follow/taophyc_?logo=twitter&style=for-the-b
 
 <a href="http://www.github.com/taophycc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=taophycc&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+/*
 <a href="http://www.github.com/taophycc"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=taophycc&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+*/
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=taophycc&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"/>
+</a>
+
 
 <a href="https://github.com/taophycc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taophycc&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
