@@ -46,14 +46,3 @@ src="https://img.shields.io/twitter/follow/taophyc_?logo=twitter&style=for-the-b
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taophycc&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=taophycc&theme=tokyonight&no-frame=true&margin-w=15)
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taophycc&theme=midnight-purple&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taophycc&layout=compact&theme=midnight-purple" />
-  <img src="https://streak-stats.demolab.com?user=taophycc&theme=dark" />
-  <img src="https://github-profile-trophy.vercel.app/?username=taophycc&theme=matrix" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taophycc&bg_color=0f172a&color=ffffff&line=38bdf8&point=ffffff&area=true&hide_border=true" />
-</p>
-
-
