@@ -7,12 +7,14 @@ Software Engineer
 
 I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to crafting clean, responsive, and user-friendly web applications. With a strong foundation in JavaScript, TypeScript, HTML, and CSS, I enjoy turning ideas into functional, elegant digital experiences.
 
-* 🌍  I'm based in 🏙️
-* ✉️  You can contact me at [taophyckassim@gmail.com](mailto:taophyckassim@gmail.com)
-* 🚀  I'm currently learning Data Structures and Algorithm  and working on [frontend mentor projects](http:////www.frontendmentor.io/profile/Taophycc)
-* 🧠  I'm exploring Javascript/Typescript
-* 🤝  I'm open to collaborating on projects, internships, and job opportunities to grow professionally and contribute to innovative teams.
-* ⚡  I'm an applied physics major 😎
+* 🌍 I'm based in Lagos, Nigeria
+* 💡 Passionate about solving real-world problems with code
+* 💻 Currently working on DSA and web development projects
+* 🌱 Learning TypeScript, React, and algorithms daily
+* 🧠 I'm exploring Javascript/Typescript
+* 🤝 I'm open to collaborating on projects, internships, and job opportunities to grow professionally and contribute to innovative teams.
+* ⚡ I'm an applied physics major 😎
+* ✉️ You can contact me at [taophyckassim@gmail.com](mailto:taophyckassim@gmail.com)
 
 <a href="https://www.github.com/taophycc" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/taophycc?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a><a href="https://www.x.com/taophyc_" target="_blank" rel="noreferrer"><img
@@ -48,3 +50,28 @@ src="https://img.shields.io/twitter/follow/taophyc_?logo=twitter&style=for-the-b
 
 
 <a href="https://github.com/taophycc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taophycc&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+//
+
+# 👋 Hey there! I'm Taophycc
+
+Welcome to my GitHub profile — where I learn, build, and share!
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taophycc&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taophycc&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taophycc&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taophycc&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=taophycc&theme=tokyonight&no-frame=true&margin-w=15)
+
+---
+
+
+
