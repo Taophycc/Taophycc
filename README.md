@@ -7,11 +7,10 @@ Software Engineer
 
 I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to crafting clean, responsive, and user-friendly web applications. With a strong foundation in JavaScript, TypeScript, HTML, and CSS, I enjoy turning ideas into functional, elegant digital experiences.
 
-* 🌍 I'm based in Lagos, Nigeria
 * 💡 Passionate about solving real-world problems with code
 * 💻 Currently working on DSA and web development projects
 * 🌱 Learning TypeScript, React, and algorithms daily
-* 🧠 I'm exploring Javascript/Typescript
+* 🧠 Exploring system design
 * 🤝 I'm open to collaborating on projects, internships, and job opportunities to grow professionally and contribute to innovative teams.
 * ⚡ I'm an applied physics major 😎
 * ✉️ You can contact me at [taophyckassim@gmail.com](mailto:taophyckassim@gmail.com)
