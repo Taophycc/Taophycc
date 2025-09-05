@@ -95,11 +95,11 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taophycc&layout=compact&bg_color=0a0f1c&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_color=0a0f1c)
 
 ### Commit Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Taophycc&background=0a0f1c&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e)
+![GitHub Streak](https://streak-stats.demolab.com?user=Taophycc&background=0a0f1c&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&hide_border=true&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e)
 
 
 ### Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taophycc&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taophycc&bg_color=0a0f1c&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 ### Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Taophycc&theme=discord&no-frame=true&margin-w=15)
