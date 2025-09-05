@@ -1,7 +1,8 @@
+![Profile views](https://komarev.com/ghpvc/?username=Taophycc&label=Profile%20views&color=0e75b6&style=flat)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taofeek Kassim
 ======================================================================================================================================
 
-![Profile views](https://komarev.com/ghpvc/?username=Taophycc&label=Profile%20views&color=0e75b6&style=flat)
 
 Software Engineer
 -----------------
@@ -18,9 +19,9 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
 
 <a href="https://www.github.com/taophycc" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/taophycc?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a><a href="https://www.x.com/taophyc_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/taophyc_?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
 
-### Skills
 
 ### Skills
+
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -43,7 +44,9 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
 </a>
 </p>
 
+
 ### Socials
+
 
 <p align="left"> 
   <!-- GitHub -->
@@ -81,6 +84,7 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
 
 
 ### Badges
+
 
 ## 📊 GitHub Stats
 
