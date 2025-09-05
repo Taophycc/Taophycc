@@ -89,13 +89,13 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
 ## 📊 GitHub Stats
 
 ### General Stats
-![Taophycc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taophycc&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=79ff97&border_color=0d1117)
+![Taophycc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taophycc&show_icons=true&bg_color=0a0f1c&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_color=0a0f1c)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taophycc&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&border_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taophycc&layout=compact&bg_color=0a0f1c&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_color=0a0f1c)
 
 ### Commit Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Taophycc&background=0d1117&ring=79ff97&fire=79ff97&currStreakLabel=ffffff&sideNums=9f9f9f&currStreakNum=ffffff&sideLabels=9f9f9f&dates=aaaaaa)
+![GitHub Streak](https://streak-stats.demolab.com?user=Taophycc&background=0a0f1c&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e)
 
 
 ### Activity Graph
