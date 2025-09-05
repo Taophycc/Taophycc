@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taofeek Kassim
 ======================================================================================================================================
 
+![Profile views](https://komarev.com/ghpvc/?username=Taophycc&label=Profile%20views&color=0e75b6&style=flat)
+
 Software Engineer
 -----------------
 
@@ -18,45 +20,84 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
 
 ### Skills
 
+### Skills
+
 <p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<!-- Add more skills here -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+</a>
 </p>
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/taophycc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /> </picture> </a></p>
+<p align="left"> 
+  <!-- GitHub -->
+  <a href="https://www.github.com/Taophycc" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /> 
+    </picture> 
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://x.com/taophyc_" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /> 
+    </picture> 
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/taofeek-kassim/" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /> 
+    </picture> 
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/taophycc" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" /> 
+    </picture> 
+  </a>
+</p>
+
 
 ### Badges
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taophycc&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taophycc&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taophycc&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taophycc&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=taophycc&theme=tokyonight&no-frame=true&margin-w=15)
-
-
-## 🚀 Enhanced GitHub Stats
-
 ### General Stats
-![Taophycc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taophycc&show_icons=true&theme=radical)
+![Taophycc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taophycc&show_icons=true&theme=discord)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taophycc&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taophycc&layout=compact&theme=discord)
 
 ### Commit Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Taophycc&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Taophycc&theme=discord)
+
+### Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taophycc&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 ### Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=Taophycc&theme=radical&no-frame=true&margin-w=15)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Taophycc&theme=discord&no-frame=true&margin-w=15)
 
-<!-- 
-### Contribution Snake (Enable if you set up the workflow)
-![Taophycc's snake gif](https://github.com/Taophycc/Taophycc/blob/output/github-contribution-grid-snake.svg)
--->
+### Contribution Snake
+![GitHub Snake](https://github.com/Taophycc/Taophycc/blob/output/snake.svg)
