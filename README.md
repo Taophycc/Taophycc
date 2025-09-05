@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=Taophycc&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Taophycc&label=Profile%20views&color=0e75b6&style=discord)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taofeek Kassim
 ======================================================================================================================================
@@ -89,13 +89,14 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
 ## 📊 GitHub Stats
 
 ### General Stats
-![Taophycc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taophycc&show_icons=true&theme=discord)
+![Taophycc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taophycc&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&icon_color=79ff97&border_color=0d1117)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taophycc&layout=compact&theme=discord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taophycc&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=9f9f9f&border_color=0d1117)
 
 ### Commit Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Taophycc&theme=discord)
+![GitHub Streak](https://streak-stats.demolab.com?user=Taophycc&background=0d1117&ring=79ff97&fire=79ff97&currStreakLabel=ffffff&sideNums=9f9f9f&currStreakNum=ffffff&sideLabels=9f9f9f&dates=aaaaaa)
+
 
 ### Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taophycc&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
