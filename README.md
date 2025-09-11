@@ -88,6 +88,8 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
 ### Code Time
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taophyc)](https://wakatime.com/@Taophyc)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ## 📊 GitHub Stats
