@@ -20,7 +20,7 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
 <a href="https://www.github.com/taophycc" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/taophycc?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a><a href="https://www.x.com/taophyc_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/taophyc_?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
 
 
-### Skills
+### Tech Stack
 
 
 <p align="left">
@@ -83,7 +83,11 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
 </p>
 
 
-### Badges
+## ⏳ Wakatime Stats
+
+### Code Time
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taophyc)](https://wakatime.com/@Taophyc)
+
 
 
 ## 📊 GitHub Stats
