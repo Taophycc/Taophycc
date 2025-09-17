@@ -96,11 +96,9 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
 
 **🐱 My GitHub Data** 
 
-> 📦 12.8 kB Used in GitHub's Storage 
  > 
 > 🏆 239 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 45 Public Repositories 
  > 
@@ -130,7 +128,6 @@ Sunday                   39 commits          ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
 JavaScript               5 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   39.24 % 
