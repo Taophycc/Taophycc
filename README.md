@@ -90,7 +90,7 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -98,7 +98,7 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
 
 > 📦 14.9 kB Used in GitHub's Storage 
  > 
-> 🏆 287 Contributions in the Year 2025
+> 🏆 292 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,53 +106,6 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-🌆 Daytime                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-🌃 Evening                170 commits         ██████████░░░░░░░░░░░░░░░   41.06 % 
-🌙 Night                  154 commits         █████████░░░░░░░░░░░░░░░░   37.20 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Tuesday                  57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Wednesday                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Thursday                 81 commits          █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Friday                   58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Saturday                 88 commits          █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Sunday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lagos
-
-💬 Programming Languages: 
-TypeScript               13 hrs 35 mins      ██████████████████░░░░░░░   71.90 % 
-Python                   3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-HTML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-
-🔥 Editors: 
-VS Code                  18 hrs 54 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-HATCHDEV                 7 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   39.54 % 
-todo-app-main            6 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.53 % 
-Python                   2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-HATCHDEV 👨🏾 💻            1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Physics-2D-simulations-Ma52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-
-💻 Operating System: 
-Mac                      18 hrs 54 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in CSS** 
 
 ```text
@@ -170,7 +123,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Taophycc/Taophycc/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 00:53:09 UTC
+ Last Updated on 03/10/2025 00:53:10 UTC
 <!--END_SECTION:waka-->
 
 
