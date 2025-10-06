@@ -90,7 +90,7 @@ I’m a Frontend Web Developer and an aspiring Full-Stack Developer dedicated to
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -170,7 +170,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Taophycc/Taophycc/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2025 00:58:51 UTC
+ Last Updated on 06/10/2025 00:54:58 UTC
 <!--END_SECTION:waka-->
 
 
