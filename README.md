@@ -82,14 +82,8 @@
     <img style="border-radius:10px" src="https://hits.sh/github.com/taophycc/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz&label=this%20many%20people%20viewed%20this%20page"/>
   </a>
 
-
-<section>
-  <h3>Commit Streak</h3>
-  <a href="https://streak-stats.demolab.com?user=Taophycc&background=0a0f1c&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&hide_border=true&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e">
-    <img src="https://streak-stats.demolab.com?user=Taophycc&background=0a0f1c&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&hide_border=true&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-  </a>
-</section>
-
+### Commit Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Taophycc&background=0a0f1c&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&hide_border=true&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
 
 <br/>
 ### Activity Graph
