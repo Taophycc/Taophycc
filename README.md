@@ -81,11 +81,11 @@
     <a style="text-decoration: none;" href="https://github.com/taophycc">
     <img style="border-radius:10px" src="https://hits.sh/github.com/taophycc/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz&label=this%20many%20people%20viewed%20this%20page"/>
   </a>
+<br/>
 
 ### Commit Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Taophycc&background=0a0f1c&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&hide_border=true&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=taophycc&background=0a0f1c&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&hide_border=true&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
 
-<br/>
 ### Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taophycc&bg_color=0a0f1c&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
