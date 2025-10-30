@@ -11,8 +11,8 @@
 </section>
 
 <section>
-  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Taophycc
-======================================================================================================================================
+  Hi (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Taophycc
+  
   <p>
     I'm physics undergrad interested in software engineering, full-stack engineering, Quantum Computing, systems design, with Physics and Maths concepts.
     I'm open to collaborating on projects, internships, research and fellowships. You can find me on X or linkedin.
@@ -83,11 +83,8 @@
     <img style="border-radius:10px" src="https://hits.sh/github.com/dev-xero/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz&label=this%20many%20people%20viewed%20this%20page"/>
   </a>
 
-## 📊 GitHub Stats
-
 ### Commit Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Taophycc&background=0a0f1c&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&hide_border=true&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e)
-
 
 ### Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taophycc&bg_color=0a0f1c&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
