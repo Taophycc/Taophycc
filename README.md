@@ -1,5 +1,89 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Taophycc&label=Profile%20views&color=0e75b6&style=discord)
 
+<!-- Profile badges -->
+<section>
+  <a style="text-decoration: none;" href="https://github.com/taophycc">
+    <img src="https://img.shields.io/github/followers/taophycc?logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
+  </a>
+  <a style="text-decoration: none;" href="https://github.com/taophycc">
+    <img src="https://img.shields.io/github/stars/taophycc?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&logoColor=white&labelColor=131820&color=FFFFFF" />
+  </a>   
+  <a style="text-decoration: none;" href="https://github.com/taophycc">
+    <img style="border-radius:10px" src="https://hits.sh/github.com/taophycc/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz"/>
+  </a>
+</section>
+
+<section>
+  <h3><b>Hey, I'm Taophycc 👋</b></h3>
+  <p>
+    I'm an Applied Physics (Electronics) student at the University of Lagos, passionate about software engineering and building impactful digital products. 
+    I enjoy solving technical challenges that blend scientific problem-solving with software development. 
+    My interests include full-stack engineering, systems design, and exploring how physics meets technology.
+  </p>
+</section>
+
+<section>
+  <h3>Skills</h3>
+  <p><b>Software Engineering</b></p>
+  <a href="#gh-dark-mode-only">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=taophycc&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="GitHub Stats">
+  </a>
+  <a href="#gh-light-mode-only">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=taophycc&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="GitHub Stats">
+  </a>
+  <ul>
+    <li>JavaScript, TypeScript, Python, C++, and SQL</li>
+    <li>React.js, Next.js, Node.js, Express, Flask</li>
+    <li>MongoDB, MySQL, PostgreSQL</li>
+    <li>AWS (basic), Git, GitHub, Tailwind CSS</li>
+  </ul>
+
+  <p><b>Other Interests</b></p>
+  <ul>
+    <li>Electronics and applied physics</li>
+    <li>Systems design and data structures</li>
+    <li>Machine learning (beginner level)</li>
+    <li>Open source and developer communities</li>
+  </ul>
+
+  <a href="#gh-dark-mode-only">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taophycc&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages">
+  </a>
+  <a href="#gh-light-mode-only">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taophycc&langs_count=10&v=174&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="Most used languages">
+  </a>
+</section>
+
+<section>
+  <h3>Projects</h3>
+  <ul>
+    <li>
+      <b><a href="https://github.com/taophycc/music-player">Music Player</a>:</b> A responsive web music player with dynamic UI and playback controls.
+    </li>
+    <li>
+      <b><a href="https://github.com/taophycc/quote-generator">Quote Generator</a>:</b> Fetches random quotes using an API with clean UI and copy-to-clipboard functionality.
+    </li>
+    <li>
+      <b><a href="https://github.com/taophycc/news-homepage">News Homepage</a>:</b> A responsive news landing page inspired by frontend challenges.
+    </li>
+    <li>
+      <b><a href="https://github.com/taophycc/picture-in-picture">Picture-in-Picture App</a>:</b> Enables floating video window streaming via JavaScript APIs.
+    </li>
+    <li>
+      <b><a href="https://github.com/taophycc/progress-tracker">Progress Tracker</a>:</b> Web app for tracking goals, streaks, and milestones built with Flask and JS.
+    </li>
+  </ul>
+</section>
+
+<br/>
+<p>
+  <b>Contact:</b>  
+  <a href="mailto:taophyckassim@gmail.com">taophyckassim@gmail.com</a> • 
+  <a href="https://linkedin.com/in/taofeek-kassim">LinkedIn</a> • 
+  <a href="https://github.com/taophycc">GitHub</a>
+</p>
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taofeek Kassim
 ======================================================================================================================================
 
