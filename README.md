@@ -57,19 +57,19 @@
   <h3>Projects</h3>
   <ul>
     <li>
-      <b><a href="https://github.com/taophycc/music-player">Music Player</a>:</b> A web music player with dynamic UI and playback controls.
+      <b><a href="https://github.com/taophycc/music-player.git">Music Player</a>:</b> A web music player with dynamic UI and playback controls.
     </li>
     <li>
-      <b><a href="https://github.com/taophycc/quote-generator">Quote Generator</a>:</b> Fetches random quotes using an API with clean UI and copy-to-clipboard functionality.
+      <b><a href="https://github.com/taophycc/quote-generator.git">Quote Generator</a>:</b> Fetches random quotes using an API with clean UI and copy-to-clipboard functionality.
     </li>
     <li>
-      <b><a href="https://github.com/Taophycc/Todo-app">Todo app</a>:</b> A todo app application built with typescript react redux toolkit.
+      <b><a href="https://github.com/Taophycc/Todo-app.git">Todo app</a>:</b> A todo app application built with typescript react redux toolkit.
     </li>
     <li>
-      <b><a href="https://github.com/taophycc/picture-in-picture">Picture-in-Picture App</a>:</b> Enables floating video window streaming via JavaScript APIs.
+      <b><a href="https://github.com/taophycc/picture-in-picture.git">Picture-in-Picture App</a>:</b> Enables floating video window streaming via JavaScript APIs.
     </li>
     <li>
-      <b><a href=https://github.com/Taophycc/Ticketr-React-">Ticketr</a>:</b> Web app for creating new tickets. Implemented auth login and CRUD operations in React, Vue and Twig.
+      <b><a href=https://github.com/Taophycc/Ticketr-React-.git">Ticketr</a>:</b> Web app for creating new tickets. Implemented auth login and CRUD operations in React, Vue and Twig.
     </li>
   </ul>
 </section>
