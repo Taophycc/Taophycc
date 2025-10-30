@@ -15,8 +15,7 @@
 </section>
 <section>
   <p>
-    I'm physics undergrad interested in software engineering, full-stack engineering, Quantum Computing, systems design, with Physics and Maths concepts.
-    Always open to collaborating on projects, internships, research and fellowships. You can contact me on X or linkedin. 
+    I'm physics undergrad interested in software engineering, full-stack engineering, Machine learning, Quantum Computing, systems design, with Physics and Maths concepts. Always open to collaborating on projects, internships, research and fellowships. I volunteer in my free time and love to work on open source projects. You can contact me on X or linkedin. (+_+) 
   </p>
 </section>
 
@@ -40,8 +39,8 @@
   <p><b>Other Interests</b></p>
   <ul>
     <li>Systems design, data structures and algorithms</li>
-    <li>Machine learning and Quantum computing</li>
-    <li>Scientific computing and Physics simulations</li>
+    <li>Machine learning, Quantum computing</li>
+    <li>Scientific computing, Physics simulations</li>
     <li>Electronics, semiconductors</li>
     <li>Open source</li>
   </ul>
