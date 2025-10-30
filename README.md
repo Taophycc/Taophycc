@@ -16,7 +16,7 @@
 <section>
   <p>
     I'm physics undergrad interested in software engineering, full-stack engineering, Quantum Computing, systems design, with Physics and Maths concepts.
-    I'm open to collaborating on projects, internships, research and fellowships. You can find me on X or linkedin.
+    Always open to collaborating on projects, internships, research and fellowships. You can contact me on X or linkedin. 
   </p>
 </section>
 
@@ -30,18 +30,19 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=taophycc&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="GitHub Stats">
   </a>
   <ul>
-    <li>JavaScript, TypeScript, Python, and SQL</li>
+    <li>JavaScript, TypeScript, Python, HTML, CSS</li>
     <li>React.js, Next.js, Node.js, Express</li>
     <li>MySQL, PostgreSQL</li>
-    <li>Git, GitHub, Tailwind CSS</li>
+    <li>Git, GitHub, AWS, Vite, Tailwind CSS</li>
     <li>Qiskit</li>
   </ul>
 
   <p><b>Other Interests</b></p>
   <ul>
     <li>Systems design, data structures and algorithms</li>
-    <li>Machine learning, quantum computing and scientific computing</li>
-    <li>Electronics and semiconductors</li>
+    <li>Machine learning and Quantum computing</li>
+    <li>Scientific computing and Physics simulations</li>
+    <li>Electronics, semiconductors</li>
     <li>Open source</li>
   </ul>
 
@@ -84,8 +85,11 @@
 
 <section>
   <h3>Commit Streak</h3>
-  <a href="https://streak-stats.demolab.com?user=Taophycc&background=0a0f1c&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&hide_border=true&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e"></a>
+  <a href="https://streak-stats.demolab.com?user=Taophycc&background=0a0f1c&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&hide_border=true&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e">
+    <img src="https://streak-stats.demolab.com?user=Taophycc&background=0a0f1c&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&hide_border=true&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  </a>
 </section>
+
 
 <br/>
 ### Activity Graph
