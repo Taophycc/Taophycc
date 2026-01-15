@@ -15,7 +15,7 @@
 </section>
 <section>
   <p>
-    I'm a physics undergrad interested in software engineering, full-stack engineering, Machine learning, Quantum Computing, systems design, with Physics and Maths concepts. Always open to collaborating on projects, internships, research and fellowships. I volunteer in my free time and love to work on open source projects. You can contact me on X or linkedin. (+_+) 
+    I'm a physics undergrad interested in software engineering, Quantum Computing, Machine learning, systems design, with Physics and Maths concepts. Always open to collaborating on projects, internships, research and fellowships. I volunteer in my free time and love to work on open source projects. You can contact me on X or linkedin. (+_+) 
   </p>
 </section>
 
@@ -29,10 +29,10 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=taophycc&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="GitHub Stats">
   </a>
   <ul>
-    <li>JavaScript, TypeScript, Python, HTML, CSS</li>
+    <li>JavaScript, TypeScript, Python, Go, HTML, CSS</li>
     <li>React.js, Next.js, Node.js, Express</li>
-    <li>MySQL, PostgreSQL</li>
-    <li>Git, GitHub, AWS, Vite, Tailwind CSS</li>
+    <li>PostgreSQL</li>
+    <li>Git, GitHub, AWS, Tailwind CSS</li>
     <li>Qiskit</li>
   </ul>
 
@@ -41,7 +41,6 @@
     <li>Systems design, data structures and algorithms</li>
     <li>Machine learning, Quantum computing</li>
     <li>Scientific computing, Physics simulations</li>
-    <li>Electronics, semiconductors</li>
     <li>Open source</li>
   </ul>
 
