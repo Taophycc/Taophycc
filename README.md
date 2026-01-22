@@ -15,7 +15,7 @@
 </section>
 <section>
   <p>
-    I'm a physics undergrad interested in software engineering, Quantum Computing, Machine learning, systems design, with Physics and Maths concepts. Always open to collaborating on projects, internships, research and fellowships. I volunteer in my free time and love to work on open source projects. You can contact me on X or linkedin. (+_+) 
+    I'm a physics undergrad interested in software engineering, Quantum Computing, Machine learning, systems design, with Physics and Maths concepts. Always open to collaborating on projects, internships, research and fellowships. I volunteer in my free time and love to work on open source projects. You can contact me on X or linkedin.
   </p>
 </section>
 
