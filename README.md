@@ -24,7 +24,7 @@
   <p><b>Software Engineering</b></p>
   
   <a>
-    <img align="right" src="https://readme-stats-fast.vercel.app/api?username=taophycc&theme=light&layout=compact&hide_border=true&title_color=131820#gh-light-mode-only" height="220px" alt="GitHub Stats">
+    <img align="right" src="https://readme-stats-fast.vercel.app/api?username=taophycc&theme=dark&layout=compact&hide_border=true&title_color=0D1117#gh-dark-mode-only" height="220px" alt="GitHub Stats">
   </a>
 
   <ul>
@@ -45,7 +45,7 @@
   </ul>
 
   <a>
-    <img align="right" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=taophycc&langs_count=10&theme=light&layout=compact&hide_border=true&title_color=131820#gh-light-mode-only" height="220px" alt="Most used languages">
+    <img align="right" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=taophycc&langs_count=10&theme=dark&layout=compact&hide_border=true&title_color=0D1117#gh-dark-mode-only" height="220px" alt="Most used languages">
   </a>
 </section>
 
