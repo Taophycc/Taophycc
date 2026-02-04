@@ -11,7 +11,7 @@
 </section>
 
 <section align="left">
-  <h3>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm Taophycc</h3>
+  <h3>Hi there. I'm Taophycc</h3>
 </section>
 <section>
   <p>
@@ -30,13 +30,14 @@
   <ul>
   <ul>
     <li>JavaScript, TypeScript, Python, Go, HTML, CSS</li>
-    <li>React.js, Next.js, Node.js, Express</li>
+    <li>React.js, Next.js, Node.js, Express, Fastify</li>
     <li>PostgreSQL</li>
-    <li>Git, GitHub, AWS, Tailwind CSS</li>
-    <li>Qiskit</li>
+    <li>Git, AWS, Redis, Tailwind CSS</li>
+    <li>Qiskit, Cuda-Q, PennyLane</li>
   </ul>
-
+    
   <p><b>Other Interests</b></p>
+  
   <ul>
     <li>Systems design, data structures and algorithms</li>
     <li>Machine learning, Quantum computing</li>
@@ -65,7 +66,7 @@
       <b><a href="https://github.com/taophycc/picture-in-picture.git">Picture-in-Picture App</a>:</b> Enables floating video window streaming via JavaScript APIs.
     </li>
     <li>
-      <b><a href=https://github.com/Taophycc/Ticketr-React-.git">Ticketr</a>:</b> Web app for creating new tickets. Implemented auth login and CRUD operations in React, Vue and Twig.
+      <b><a href=https://github.com/Taophycc/Ticketr-React-.git">Ticketr</a>:</b> Web app for creating new tickets. Implemented auth login and CRUD operations.
     </li>
   </ul>
 </section>
