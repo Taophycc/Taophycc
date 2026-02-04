@@ -24,7 +24,7 @@
   <p><b>Software Engineering</b></p>
   
   <a>
-    <img align="right" src="https://readme-stats-fast.vercel.app/api?username=taophycc&theme=dark&layout=compact&hide_border=true&bg_color=000000#gh-dark-mode-only" height="220px" alt="GitHub Stats">
+    <img align="right" src="https://readme-stats-fast.vercel.app/api?username=taophycc&theme=dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9#gh-dark-mode-only" height="220px" alt="GitHub Stats">
   </a>
 
   <ul>
@@ -45,7 +45,7 @@
   </ul>
 
   <a>
-    <img align="right" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=taophycc&langs_count=10&theme=dark&layout=compact&hide_border=true&bg_color=000000&title_color=58a6ff&text_color=c9d1d9#gh-dark-mode-only" height="220px" alt="Most used languages">
+    <img align="right" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=taophycc&langs_count=10&theme=dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9#gh-dark-mode-only" height="220px" alt="Most used languages">
   </a>
 </section>
 
@@ -79,10 +79,10 @@
 <br/>
 
 ### Commit Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=taophycc&background=0a0f1c&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&hide_border=true&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taophycc&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&hide_border=true&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
 
 ### Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taophycc&bg_color=0a0f1c&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taophycc&bg_color=od1117&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 ### Contribution Snake
 ![GitHub Snake](https://github.com/Taophycc/Taophycc/blob/output/snake.svg)
