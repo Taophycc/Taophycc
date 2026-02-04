@@ -11,7 +11,7 @@
 </section>
 
 <section align="left">
-  <h3>Hi there. I'm Taophycc</h3>
+  <h3>Hi there. I'm Taophycc ♔ </h3>
 </section>
 <section>
   <p>
