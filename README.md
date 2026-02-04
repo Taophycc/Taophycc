@@ -22,12 +22,12 @@
 <section>
   <h3>Skills</h3>
   <p><b>Software Engineering</b></p>
-  <a href="#gh-dark-mode-only">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=taophycc&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="GitHub Stats">
-  </a>
-  <a href="#gh-light-mode-only">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=taophycc&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="GitHub Stats">
-  </a>
+  
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=taophycc&theme=dark&layout=compact&hide_border=true&bg_color=0D1117#gh-dark-mode-only" height="220px" alt="GitHub Stats">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=taophycc&theme=light&layout=compact&hide_border=true&title_color=131820#gh-light-mode-only" height="220px" alt="GitHub Stats">
+
+  <ul>
   <ul>
     <li>JavaScript, TypeScript, Python, Go, HTML, CSS</li>
     <li>React.js, Next.js, Node.js, Express</li>
@@ -44,12 +44,9 @@
     <li>Open source</li>
   </ul>
 
-  <a href="#gh-dark-mode-only">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taophycc&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages">
-  </a>
-  <a href="#gh-light-mode-only">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taophycc&langs_count=10&v=174&theme=light&layout=compact&hide_border=true&title_color=131820" height="220px" alt="Most used languages">
-  </a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taophycc&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117#gh-dark-mode-only" height="220px" alt="Most used languages">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taophycc&langs_count=10&v=174&theme=light&layout=compact&hide_border=true&title_color=131820#gh-light-mode-only" height="220px" alt="Most used languages">
 </section>
 
 <section>
