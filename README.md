@@ -56,10 +56,10 @@
       <b><a href="https://github.com/taophycc/music-player.git">Music Player</a>:</b> A web music player with dynamic UI and playback controls.
     </li>
     <li>
-      <b><a href="https://github.com/taophycc/quote-generator.git">Quote Generator</a>:</b> Fetches random quotes using an API with clean UI and copy-to-clipboard functionality.
+      <b><a href="https://github.com/Taophycc/Video-streaming-server.git">Video streaming server</a>:</b> Adaptive HLS streaming server with automated FFmpeg transcoding and Whisper AI subtitles.
     </li>
     <li>
-      <b><a href="https://github.com/Taophycc/Todo-app.git">Todo app</a>:</b> A todo app application built with typescript react redux toolkit.
+      <b><a href="https://github.com/Taophycc/git-watch.git">git-watch</a>:</b> A webhook service to track daily/weekly code reviews and get automated AI changelogs.
     </li>
     <li>
       <b><a href="https://github.com/taophycc/picture-in-picture.git">Picture-in-Picture App</a>:</b> Enables floating video window streaming via JavaScript APIs.
